@@ -7,12 +7,10 @@ This pipeline performs processing of snRNA-seq data to identify unknown single n
 2. Requirements
 3. Installation
 4. Usage
-5. Pipeline Structure
-6. Configuration
-7. Input and Output
-8. Best Practices
-9. Contributing
-10. License
+5. Configuration
+6. Input and Output
+7. Contributing
+8. License
 
 ## Features
 - Modular Nextflow pipeline with clearly separated steps:
@@ -26,10 +24,32 @@ This pipeline performs processing of snRNA-seq data to identify unknown single n
 - Automatic logging and error handling.
 - Scalable to large snRNA-seq datasets.
 
-  ## Requirements
-  - Modules already installed on BU Shared Computing cluster (SCC)
+## Requirements
+- Create a conda environment with nextflow (ex. nextflow_latest)
+- Modules already installed on BU Shared Computing cluster (SCC)
  
-  ## Installation
+## Installation
   - Clone this repository in the SCC
-  - git clone
-  ''' https://github.com/JackSherry6/Waxman-Lab-snRNA-seq-SNP-Calling-Pipeline.git
+  - git clone 'https://github.com/JackSherry6/Waxman-Lab-snRNA-seq-SNP-Calling-Pipeline.git'
+ 
+## Usage
+Basic execution: 
+module load conda
+conda activate nextflow_latest (or whatever you named your conda environment with nextflow)
+nextflow run main.nf -profile conda,cluster
+
+## Configuration
+- Lines for configuration in config file:
+  - Lines here:
+
+## Input and Output
+- Input:
+  - Folder of cram/crai files (specify location in configs)
+  - Reference fasta file (specify location in configs)
+  - Reference fasta index file (specify location in configs)
+  - Reference fasta dictionary file (specify location in configs)
+- Output:
+  - See results folder after program runs
+
+## Contributing 
+- Email me at jgsherry@bu.edu for additional information or contributing information
