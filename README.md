@@ -40,7 +40,9 @@ nextflow run main.nf -profile conda,cluster
 
 ## Configuration
 - Lines for configuration in config file:
-  - Lines here:
+  - set samples, ref_genome, ref_index, ref_dict to locations
+  - Set queueSize to appropriate size based on sample size (I use a quarter of the number of samples)
+  - Optional: set resume to true in order to save progress during runs
 
 ## Input and Output
 - Input:
