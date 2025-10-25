@@ -1,0 +1,155 @@
+2025-09-29 15:44:46	723ms	agitated_montalcini	OK	c3047f19b3121ce0e8a322200e9bad09	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile singularity,cluster
+2025-09-29 15:45:28	1.8s	jovial_legentil	OK	d5cc943d621709cf5e771b3edb162bc5	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile singularity,cluster
+2025-09-29 15:46:02	1.5s	ridiculous_crick	OK	d5cc943d621709cf5e771b3edb162bc5	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile singularity,cluster
+2025-09-29 15:46:58	2.6s	wise_curry	OK	c3047f19b3121ce0e8a322200e9bad09	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile singularity,cluster
+2025-09-29 15:47:17	2.4s	curious_wegener	OK	2dbc4d9a2c864024814560c8ae815e7f	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile singularity,cluster
+2025-09-29 15:54:03	2.5s	loquacious_celsius	OK	215e7857565bb38d554b70dde6e44663	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile singularity,cluster
+2025-09-29 15:55:07	682ms	furious_mcclintock	OK	bca6bac997db06b158562dfdbb264010	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile singularity,cluster
+2025-09-30 13:38:26	4m 47s	pensive_mercator	ERR	407f16a9c1d98fd1d42526d4973c580d	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile cluster,conda
+2025-09-30 13:51:35	3m 17s	desperate_majorana	ERR	407f16a9c1d98fd1d42526d4973c580d	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile cluster,conda
+2025-09-30 17:29:36	1.7s	distraught_banach	OK	3dc62de6f2eef8779d588551bfceef9a	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile cluster,conda
+2025-09-30 17:31:41	5.9s	sick_lamarr	OK	08cea61c5a427062328c996a8fc1c234	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile cluster,conda
+2025-09-30 17:34:58	1.3s	naughty_banach	OK	36814dc821fc4cd284a7628cb281342f	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile cluster,conda
+2025-09-30 17:35:11	1.7s	condescending_knuth	OK	fa4491cf3b08bcf18af8b23e4e66ff98	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile cluster,conda
+2025-09-30 17:35:48	6.1s	drunk_koch	OK	768611e648cee006d84493e5e42fdad7	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile cluster,conda
+2025-09-30 17:44:01	5.8s	irreverent_leibniz	OK	a593be98153a95136566500288308942	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile cluster,conda
+2025-09-30 17:46:09	5.7s	admiring_mestorf	OK	a593be98153a95136566500288308942	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run main.nf -profile cluster,conda
+2025-09-30 17:48:19	6.2s	hopeful_mandelbrot	OK	525ea695782c5f277aad37b62ef2f004	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run test.nf -profile cluster,conda
+2025-09-30 17:51:38	5.5s	stoic_bohr	OK	0aba55845f5dad3c85d438f16f537d25	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run test.nf -profile cluster,conda
+2025-09-30 18:00:50	-	reverent_crick	-	c12b4008aafa2a13563a2af4827471af	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run test.nf -profile cluster,conda
+2025-09-30 18:06:02	4m 57s	special_easley	OK	2cde6a9e9136b2cb88610c20f6d7eeb1	89bbe640-3bd7-4da4-a3fe-8a23afd23178	nextflow run test.nf -profile cluster,conda
+2025-09-30 18:27:05	-	condescending_galileo	-	a17e11d0ab8e7f5b9994f7f36e5e4499	f1683ddc-de39-4df1-9f72-b0c5979ed23a	nextflow run main.nf -profile cluster,conda
+2025-09-30 18:27:46	-	intergalactic_lalande	-	6353145376af043227a9f54d6ebbeb4b	fea3ec7b-a556-4cb2-8d95-8168e14c0df2	nextflow run main.nf -profile cluster,conda
+2025-09-30 18:28:12	-	voluminous_heyrovsky	-	6f2da75cb261a86d9a2fb6ff891e15a4	4bd894ca-afac-48c7-a32c-7117965baa9b	nextflow run main.nf -profile cluster,conda
+2025-09-30 18:29:21	-	reverent_kilby	-	9f52d726818c4a7ea12305553076b399	7917c663-4f87-4346-9afd-79a3d327f604	nextflow run main.nf -profile cluster,conda
+2025-09-30 18:29:34	4.1s	cheesy_pasteur	ERR	64928e7148077d00376144b79ee97ee0	21d43aa2-857f-43ce-a1a3-b9c15af82621	nextflow run main.nf -profile cluster,conda
+2025-09-30 18:30:26	1m 17s	condescending_cajal	OK	64928e7148077d00376144b79ee97ee0	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-09-30 18:52:05	3.4s	mad_shannon	ERR	a9ed6c15fd18fbdd2d01d529448a159f	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-09-30 18:54:59	3.7s	ecstatic_salas	ERR	a9ed6c15fd18fbdd2d01d529448a159f	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-09-30 18:56:52	22.6s	admiring_bernard	ERR	a9ed6c15fd18fbdd2d01d529448a159f	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-09-30 18:59:59	2m 37s	high_rubens	OK	a9ed6c15fd18fbdd2d01d529448a159f	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 11:10:09	-	nice_lamport	-	6cb8b954fc6a980a0c3883053a7d7dc8	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 11:12:06	-	deadly_meitner	-	30f937dc14e253c8dabe44b0c85193d7	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 11:13:07	1m 42s	fabulous_euclid	ERR	30f937dc14e253c8dabe44b0c85193d7	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 11:21:05	2m 12s	lonely_picasso	ERR	30f937dc14e253c8dabe44b0c85193d7	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 11:35:51	1m 12s	nostalgic_fermi	ERR	30f937dc14e253c8dabe44b0c85193d7	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 11:40:18	1m 12s	fabulous_lagrange	ERR	30f937dc14e253c8dabe44b0c85193d7	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 11:45:58	1m 17s	jovial_agnesi	ERR	5351b18ee4a126dd61872045d72f60c2	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 11:52:51	-	nauseous_picasso	-	b691b9b3e627b9233aaa2f2991632052	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 11:53:28	1m 51s	jovial_gautier	OK	b68b8e9771317de9023db01511c5ea07	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 12:05:44	-	ridiculous_swirles	-	7ff3eaa69a8058ab6df738bff28f5076	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 12:05:58	5m 17s	loquacious_perlman	OK	e317e1c4d3a58b4b13452581e5ef4628	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 13:10:41	1m 16s	distraught_escher	OK	df8d3ff272436f0eca13070c8e1211af	8d42a797-b844-4d30-a30a-2af25cd564c1	nextflow run main.nf -profile cluster,conda
+2025-10-01 13:55:20	14m 32s	hopeful_davinci	OK	e7e3227061a90fcf2feeaa37d7d04021	1ec22281-8d69-40f1-ad24-7924a101f1f5	nextflow run main.nf -profile cluster,conda
+2025-10-01 16:55:03	11m 12s	wise_neumann	OK	cb47518e90465a0504810f1dfe771c40	bd731cdd-bc29-4ece-8ab1-eefbf106e074	nextflow run main.nf -profile cluster,conda
+2025-10-02 11:06:53	9m 17s	nostalgic_keller	OK	2b817d606d3c3b032873ae453b435150	e0e3aa4b-0841-4020-959d-72cdde8721f3	nextflow run main.nf -profile cluster,conda
+2025-10-03 10:05:22	11m 22s	kickass_thompson	OK	2b817d606d3c3b032873ae453b435150	f22b078b-ccef-40ab-bd29-893d6d2fecfb	nextflow run main.nf -profile cluster,conda
+2025-10-03 15:24:30	9m 7s	gigantic_gutenberg	OK	2b817d606d3c3b032873ae453b435150	4a22bd20-3f8f-4859-8dfe-c67601ff8b1b	nextflow run main.nf -profile cluster,conda
+2025-10-03 15:36:20	9m 16s	loquacious_ardinghelli	OK	2b817d606d3c3b032873ae453b435150	9ef3f9cf-7ff2-4585-bb07-b4f79b3ca30e	nextflow run main.nf -profile cluster,conda
+2025-10-06 16:11:17	16m 41s	prickly_goodall	OK	c23710579d504577023fbaa1795aafaf	ef4295c2-1f45-4308-ba15-71d79c47486a	nextflow run main.nf -profile cluster,conda
+2025-10-06 16:53:03	12m 48s	fervent_euclid	OK	7b6f24d4b43e700f1c2b464018733693	d7f6aaf8-92a6-466b-b15b-80b1614ca829	nextflow run main.nf -profile cluster,conda
+2025-10-06 17:09:57	8m 17s	exotic_babbage	OK	e2d5f335bfad200c20b3cf47be4e9b90	c8486db3-a25c-41b6-b3aa-c22704a2f3b3	nextflow run main.nf -profile cluster,conda
+2025-10-06 17:23:13	8m 41s	jolly_gauss	OK	e2d5f335bfad200c20b3cf47be4e9b90	b028b9b5-0ffa-4253-9881-cf36d3f5469f	nextflow run main.nf -profile cluster,conda
+2025-10-06 17:41:33	1h 2m 7s	astonishing_legentil	OK	7f4a2fee9f343172b215f78762e521df	cdbe5420-7939-4d63-854d-b46151f1057d	nextflow run main.nf -profile cluster,conda
+2025-10-06 18:52:21	-	exotic_cuvier	-	7f4a2fee9f343172b215f78762e521df	505a8daa-ec64-4d92-9a23-b59cc238209f	nextflow run main.nf -profile cluster,conda
+2025-10-06 19:44:04	-	nauseous_hamilton	-	7f4a2fee9f343172b215f78762e521df	96b68dcd-1bb9-41b1-9f3f-8585af625c67	nextflow run main.nf -profile cluster,conda
+2025-10-07 09:01:52	56m 42s	jovial_keller	OK	7f4a2fee9f343172b215f78762e521df	a8410942-670e-4fde-b3db-9f9bd6a6e090	nextflow run main.nf -profile cluster,conda
+2025-10-07 17:40:35	1h 27m 47s	agitated_yonath	OK	7f4a2fee9f343172b215f78762e521df	34bf8c7b-c958-45cc-908e-a26ea7972175	nextflow run main.nf -profile cluster,conda
+2025-10-08 15:37:55	12m 7s	cheesy_jang	ERR	b3022a6eb803796c39e63e5a5996c47c	ce3cfba5-f6e6-4771-811e-bb30d19ec721	nextflow run main.nf -profile cluster,conda
+2025-10-08 15:55:10	3m 47s	scruffy_bell	ERR	b3022a6eb803796c39e63e5a5996c47c	f60b1e87-595e-4d93-b6e7-0c829124de74	nextflow run main.nf -profile cluster,conda
+2025-10-08 16:02:42	8m 22s	spontaneous_goodall	OK	b3022a6eb803796c39e63e5a5996c47c	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 11:53:10	-	confident_stonebraker	-	efc963491dac0d906bfef8d640394c16	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 11:53:49	10m 32s	lethal_gauss	ERR	efc963491dac0d906bfef8d640394c16	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 12:09:31	5m 3s	fervent_fourier	ERR	efc963491dac0d906bfef8d640394c16	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 12:28:28	1m 12s	modest_ampere	ERR	efc963491dac0d906bfef8d640394c16	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 12:30:08	2m 52s	nauseous_kimura	OK	efc963491dac0d906bfef8d640394c16	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 12:36:21	15m 6s	elated_thompson	OK	efc963491dac0d906bfef8d640394c16	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 13:51:14	1m 12s	dreamy_wescoff	ERR	efc963491dac0d906bfef8d640394c16	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 14:02:04	2m 57s	jolly_galileo	OK	efc963491dac0d906bfef8d640394c16	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 14:10:41	1m 16s	trusting_nightingale	OK	c70cca8ef52e01d9938fa0aced95a2ce	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 14:14:48	1m 17s	loving_almeida	OK	c70cca8ef52e01d9938fa0aced95a2ce	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 14:18:14	1m 42s	loving_cuvier	OK	c70cca8ef52e01d9938fa0aced95a2ce	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 14:21:08	6.5s	awesome_linnaeus	OK	c70cca8ef52e01d9938fa0aced95a2ce	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 14:23:07	1m 42s	loquacious_maxwell	OK	c70cca8ef52e01d9938fa0aced95a2ce	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 14:53:56	12m 51s	nice_nobel	OK	c70cca8ef52e01d9938fa0aced95a2ce	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 17:46:57	12m 57s	desperate_allen	OK	c70cca8ef52e01d9938fa0aced95a2ce	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-09 18:19:22	13m 22s	wise_darwin	OK	c70cca8ef52e01d9938fa0aced95a2ce	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-12 15:36:14	14m 32s	desperate_heisenberg	OK	cd843781457b9aaa7686421ad4d69730	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-12 16:34:29	-	magical_fermi	-	686df95c863fb5c8b27967ab16ca2ff6	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-12 16:35:12	5m 47s	special_borg	ERR	6b4f8e926cb2fa3d684a14e2c9666411	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-12 16:43:19	1m 12s	compassionate_jones	ERR	6b4f8e926cb2fa3d684a14e2c9666411	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-12 16:50:36	1m 37s	high_escher	ERR	6b4f8e926cb2fa3d684a14e2c9666411	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-12 16:55:54	1m 13s	extravagant_edison	ERR	6b4f8e926cb2fa3d684a14e2c9666411	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-12 16:58:54	1m 13s	sharp_koch	ERR	6b4f8e926cb2fa3d684a14e2c9666411	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-12 17:02:58	1m 37s	scruffy_goldberg	ERR	6b4f8e926cb2fa3d684a14e2c9666411	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-12 17:06:30	1m 16s	elegant_mercator	OK	6b4f8e926cb2fa3d684a14e2c9666411	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 18:49:06	-	peaceful_stone	-	f863e3e091d53c2c7a6d2c041d3b489f	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 18:51:39	2.9s	voluminous_kilby	OK	1e6116efb20b22fa8fcc4fa127b913a2	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 18:53:13	1.7s	condescending_cori	OK	1e6116efb20b22fa8fcc4fa127b913a2	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 18:54:04	1.8s	distracted_austin	OK	0a1f65cf0bacf43abddc40af2cf7f512	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 18:54:49	2s	silly_becquerel	OK	0a1f65cf0bacf43abddc40af2cf7f512	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 18:55:27	1.1s	cheesy_murdock	OK	471ecbde91d2d5ea5341a67e8989f695	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 18:55:59	1.2s	suspicious_mercator	OK	a4a9b00c2b120b5ade1fdf603679f9d3	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:18:37	-	thirsty_joliot	-	900ab258beaeef76b9d81b609effbce6	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:19:06	-	festering_hypatia	-	d5851b59599419a92c20ad89ebfd04a1	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:19:18	-	shrivelled_knuth	-	3ed401ca4d950bbf7748e709b13fe93b	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:22:02	-	golden_boyd	-	3ed401ca4d950bbf7748e709b13fe93b	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:22:40	26.5s	serene_saha	ERR	3ed401ca4d950bbf7748e709b13fe93b	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:25:50	2m 38s	grave_raman	ERR	3ed401ca4d950bbf7748e709b13fe93b	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:29:45	1m 37s	naughty_dalembert	ERR	3ed401ca4d950bbf7748e709b13fe93b	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:32:33	42s	desperate_bernard	ERR	3ed401ca4d950bbf7748e709b13fe93b	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:34:14	2m 3s	astonishing_easley	ERR	3ed401ca4d950bbf7748e709b13fe93b	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:39:05	1m 12s	elated_brattain	ERR	3ed401ca4d950bbf7748e709b13fe93b	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:42:10	1m 12s	small_pasteur	ERR	3ed401ca4d950bbf7748e709b13fe93b	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:45:22	42.1s	nostalgic_stonebraker	ERR	99f081dd94e82e5c4ef0c07575bd0254	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:47:43	1m 37s	admiring_brattain	ERR	99f081dd94e82e5c4ef0c07575bd0254	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:52:15	1m 12s	cheeky_lichterman	ERR	132ab6a9b608bbc526f936d16423bfd6	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 19:58:48	1m 17s	jovial_cuvier	ERR	f9932097c954f821cf256fffc627306d	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 20:01:15	2.3s	big_plateau	ERR	f9932097c954f821cf256fffc627306d	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 20:01:39	2.6s	drunk_minsky	ERR	f9932097c954f821cf256fffc627306d	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-20 20:02:27	1m 12s	extravagant_bell	ERR	f9932097c954f821cf256fffc627306d	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 12:17:07	1m 12s	astonishing_hypatia	ERR	f9932097c954f821cf256fffc627306d	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 12:29:20	-	pedantic_ride	-	d6755566452fc6212c2845f1aae4b8fe	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 12:33:55	-	voluminous_austin	-	d6755566452fc6212c2845f1aae4b8fe	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 12:34:13	4m 22s	hungry_watson	ERR	1b32c1a3470660ccbf10501e4a7ea8ca	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 12:39:33	2m 22s	nasty_miescher	ERR	1b32c1a3470660ccbf10501e4a7ea8ca	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 12:48:19	36.6s	prickly_rutherford	ERR	1b32c1a3470660ccbf10501e4a7ea8ca	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 12:49:43	1m 37s	maniac_torricelli	ERR	1b32c1a3470660ccbf10501e4a7ea8ca	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 12:53:25	4m 52s	adoring_pare	ERR	1b32c1a3470660ccbf10501e4a7ea8ca	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 13:03:48	3m 22s	kickass_church	OK	1b32c1a3470660ccbf10501e4a7ea8ca	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 13:10:30	-	adoring_maxwell	-	1cc51bed90ce5393cddb069ad106f687	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 13:10:52	2m 42s	desperate_minsky	ERR	1cc51bed90ce5393cddb069ad106f687	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 13:17:14	59m 37s	ecstatic_caravaggio	OK	1cc51bed90ce5393cddb069ad106f687	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 14:38:24	-	high_meucci	-	d79eacfbe64581184a6ee8f633381bba	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 14:38:42	1m 37s	gigantic_becquerel	ERR	c79204a258304dadc54f4459ea233bba	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 14:51:33	2m 17s	astonishing_stonebraker	ERR	3ef0615915766c41b9df1d25eaf57468	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 14:56:02	1m 17s	backstabbing_wright	OK	3ef0615915766c41b9df1d25eaf57468	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 15:03:53	1m 13s	nasty_church	ERR	6c9b8eab4879d56f878351daa1bdf3c9	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 15:05:45	1m 12s	naughty_brown	ERR	5994e273f089666291c7a66d6efe7b31	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 15:09:34	1m 12s	elated_noyce	ERR	2c8889e02bc72e72615deaa0f237f575	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 15:12:29	4m 9s	infallible_lamarr	ERR	2c8889e02bc72e72615deaa0f237f575	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 15:16:52	27m 36s	gloomy_curie	OK	0b7e955a8da0b0a3583e138481b0ec7c	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-21 15:53:29	43m 32s	soggy_babbage	OK	2c8889e02bc72e72615deaa0f237f575	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 19:51:45	6.7s	happy_murdock	OK	26e48db95ec4c99cfc6f1141873c9aeb	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:04:23	-	crazy_lalande	-	75a9be3a9012df1227752ef06450781c	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:05:54	2m 22s	tiny_hirsch	OK	75a9be3a9012df1227752ef06450781c	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:13:36	1m 17s	naughty_mandelbrot	OK	bd66d523d99b234cacfd40c4f38f3a2b	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:42:19	-	romantic_easley	-	766a838ae0468f916ced2190b86a5dee	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:43:13	-	jolly_torvalds	-	7c076ad6a7919ef7b8ff1d0a926a0be8	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:44:06	-	nice_kalman	-	f8b819ca635e9171f037d88e12b52c69	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:44:29	-	compassionate_boyd	-	50c0222fd5ad55eea641f156993567e4	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:53:37	-	sad_laplace	-	24e0a2f004c14a46a7d80cd1111b332f	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:55:26	-	elegant_hamilton	-	d86acf4691e3a7afeb2437b6d453c250	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:58:09	-	lethal_gautier	-	05c0b31839634fb671859fa7a1a489f8	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 20:59:26	-	berserk_legentil	-	382f14da62ca8f9892d8c07441d2165f	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:00:34	-	astonishing_kalam	-	b757463c414119cd635373db7b8b83e7	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:01:51	6.7s	sick_caravaggio	OK	d4e6fb0a7325b6e355d9788f27c92043	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:02:11	7s	ecstatic_ekeblad	OK	682baf092f557c6940f3e43c1feb4667	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:06:23	1m 12s	insane_caravaggio	ERR	d1cbe0aaf19d0c2e5c502d667595e1a5	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:08:54	8m 48s	silly_leakey	ERR	d1cbe0aaf19d0c2e5c502d667595e1a5	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:30:32	1m 13s	jolly_woese	ERR	d1cbe0aaf19d0c2e5c502d667595e1a5	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:36:59	1m 46s	ecstatic_bardeen	OK	800c756f25fe53ef66c6b2d826bad06f	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:42:13	-	extravagant_lovelace	-	800c756f25fe53ef66c6b2d826bad06f	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:43:21	-	marvelous_jones	-	800c756f25fe53ef66c6b2d826bad06f	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:47:11	-	voluminous_cori	-	800c756f25fe53ef66c6b2d826bad06f	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda
+2025-10-24 21:48:40	1m 16s	friendly_borg	OK	800c756f25fe53ef66c6b2d826bad06f	6d8d4d50-3f58-41ec-b992-ff62174fac9a	nextflow run main.nf -profile cluster,conda

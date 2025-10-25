@@ -1,0 +1,9 @@
+name: gatk_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - gatk4      # installs latest GATK 4.x
+  - samtools   # for BAM/CRAM handling
+  - openjdk=17 # GATK requires Java 17

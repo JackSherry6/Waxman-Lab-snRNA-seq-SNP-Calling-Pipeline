@@ -1,0 +1,16 @@
+name: visualize_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-allel
+  - numpy
+  - plotly
+  - cyvcf2
+  - jinja2       # required by plotly sometimes
+  - pip
