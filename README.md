@@ -34,9 +34,12 @@ This pipeline performs processing of snRNA-seq data to identify unknown single n
  
 ## Usage
 Basic execution: 
-module load conda
-conda activate nextflow_latest (or whatever you named your conda environment with nextflow)
-nextflow run main.nf -profile conda,cluster
+- ```module load conda```
+- ```conda activate <name_of_your_nexflow_conda_env>```
+- Set params.samples to the location of the folder containing your files
+- Set params.ref_genome, ref_index, ref_dict to their respective file locations
+- Modify your group_labels.csv file according to your sample names and groups (use the same format as my example or modify my example)
+- ```nextflow run main.nf -profile conda,cluster``` (should always run on the cluster, if you have no choice, then use conda,local)
 
 ## Configuration
 - Lines for configuration in config file:
