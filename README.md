@@ -25,8 +25,9 @@ This pipeline performs processing of snRNA-seq data to identify unknown single n
 - Scalable to large snRNA-seq datasets.
 
 ## Requirements
-- Create a conda environment with nextflow (ex. nextflow_latest)
+- Must have a conda environment with nextflow in order to run nextflow
 - Modules already installed on BU Shared Computing cluster (SCC)
+- If not using BU SCC, see envs directory for software and version information
  
 ## Installation
   - Clone this repository in the SCC
@@ -34,7 +35,7 @@ This pipeline performs processing of snRNA-seq data to identify unknown single n
  
 ## Usage
 Basic execution: 
-- ```module load conda```
+- ```module load miniconda```
 - ```conda activate <name_of_your_nexflow_conda_env>```
 - Set params.samples to the location of the folder containing your files
 - Set params.ref_genome, ref_index, ref_dict to their respective file locations
