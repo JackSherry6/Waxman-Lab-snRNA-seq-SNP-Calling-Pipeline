@@ -38,7 +38,7 @@ Basic execution:
 - ```conda activate <name_of_your_nexflow_conda_env>```
 - Set params.samples to the location of the folder containing your files
 - Set params.ref_genome, ref_index, ref_dict to their respective file locations
-- Modify your group_labels.csv file according to your sample names and groups (use the same format as my example or modify my example)
+- Modify the samples.csv file according to your sample names and groups 
 - ```nextflow run main.nf -profile conda,cluster``` (should always run on the cluster, if you have no choice, then use conda,local)
 
 ## Configuration
