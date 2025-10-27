@@ -13,7 +13,7 @@ workflow {
     Channel
     .fromPath("${params.samples}/*.cram")
     .map { cram ->
-        def crai = file("${cram}.crai")   // assume .crai has the same base name
+        def crai = file("${cram}.crai") 
         [cram, crai]
     }
     .set {sample_pairs}
