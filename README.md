@@ -1,6 +1,6 @@
 # Waxman Lab snRNA-seq SNP Calling Pipeline
 
-This pipeline performs processing of snRNA-seq data to identify unknown single nucleotide polymorphisms (SNPs), including alignment, quality control, read filtering, variant calling, and normalization. 
+This pipeline performs processing of snRNA-seq data to identify unknown single nucleotide polymorphisms (SNPs), including alignment, quality control, read filtering, variant calling, and normalization. This pipelines supports both BU shared computing cluster and aws.
 
 ## Table of Contents
 1. Features
@@ -27,6 +27,7 @@ This pipeline performs processing of snRNA-seq data to identify unknown single n
 ## Requirements
 - Must have a conda environment with nextflow in order to run nextflow
 - Modules already installed on BU Shared Computing cluster (SCC)
+- If using aws, see envs file for all packages to install
 - If not using BU SCC, see envs directory for software and version information
  
 ## Installation
@@ -40,7 +41,7 @@ Basic execution:
 - Set params.samples to the location of the folder containing your files
 - Set params.ref_genome, ref_index, ref_dict to their respective file locations
 - Modify the samples.csv file according to your sample names and groups 
-- ```nextflow run main.nf -profile conda,cluster``` (should always run on the cluster, if you have no choice, then use conda,local)
+- ```nextflow run main.nf -profile conda,cluster``` (for waxman lab you should always run on the cluster, but if using aws, substitute ```aws``` for ```cluster```)
 
 ## Configuration
 - Lines for configuration in config file:
